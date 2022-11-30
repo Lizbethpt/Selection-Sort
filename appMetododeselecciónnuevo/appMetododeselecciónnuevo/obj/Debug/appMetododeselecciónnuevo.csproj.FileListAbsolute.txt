@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.Form1.resources
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\bin\Debug\appMetododeselecciónnuevo.exe.config
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\bin\Debug\appMetododeselecciónnuevo.exe
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\bin\Debug\appMetododeselecciónnuevo.pdb
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.exe
+C:\Users\Hector Peña\source\repos\appMetododeselecciónnuevo\appMetododeselecciónnuevo\obj\Debug\appMetododeselecciónnuevo.pdb
